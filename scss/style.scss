@@ -1,4 +1,4 @@
-$font-heading: 'Abril Fatface', sans-serif;
+$font-heading: 'Biryani', sans-serif;
 @import "bootstrap";
 @import "variables";
 @import "mixins";
@@ -10,7 +10,7 @@ html {
 }
 body {
 	background: $white;
-	font-family: $font-family-sans-serif;
+	font-family: 'Biryani', sans-serif;;
 	font-weight: 400;
 	font-size: .96rem;
 	line-height: 1.8;
