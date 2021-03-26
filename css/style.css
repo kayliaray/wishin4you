@@ -10643,7 +10643,7 @@ figure figcaption {
     bottom: 10px
 }
 
-.work-thumb:hover .work-text {
+/*.work-thumb:hover .work-text {
     margin-top: 0px;
     opacity: 1;
     visibility: visible
@@ -10652,7 +10652,7 @@ figure figcaption {
 .work-thumb:hover:before {
     opacity: 1;
     visibility: visible
-}
+}*/
 
 .divider {
     width: 70px;
@@ -10680,6 +10680,10 @@ figure figcaption {
     margin: auto;
     background-color: rgba(143, 151, 121, .5);
     border: none
+}
+.icon {
+   font-size: 48px;
+   color: var(--primary);
 }
 
 /*# sourceMappingURL=style.css.map */
