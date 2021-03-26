@@ -8,6 +8,6 @@ Phone: ".$phone."<br>
 Email: ".$email."<br>
 Message: ".$message;
 
-mail("chocolatepbcups@gmail.com","A New Message from Wishin4You",$msg);
+mail("contact@wishin4you.com","A New Message from Wishin4You",$msg);
 header("Location:'contact_confirm.html'");
 ?>
